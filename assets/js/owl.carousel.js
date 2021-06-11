@@ -49,7 +49,7 @@ responsive:!0,responsiveRefreshRate:200,responsiveBaseWidth:g,baseClass:"owl-car
 $(document).ready(function(){
   $("#owl-carousel").owlCarousel({
     navigation : true,
-    navigationText: ["<img src='/assets/img/Homepage-Header-Arrow-Left.png'>","<img src='/assets/img/Homepage-Header-Arrow-Right.png'>"],
+    navigationText: ["<img src='https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/main/assets/img/Homepage-Header-Arrow-Left.png'>","<img src='https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/main/assets/img/Homepage-Header-Arrow-Right.png'>"],
     slideSpeed : 300,
     paginationSpeed : 400,
     autoPlay: 10000,
@@ -59,7 +59,7 @@ $(document).ready(function(){
 
   $("#gallery-carousel").owlCarousel({
     navigation : true,
-    navigationText: ["<img src='/assets/img/Homepage-Header-Arrow-Left.png'>","<img src='/assets/img/Homepage-Header-Arrow-Right.png'>"],
+    navigationText: ["<img src='https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/main/assets/img/Homepage-Header-Arrow-Left.png'>","<img src='https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/main/assets/img/Homepage-Header-Arrow-Right.png'>"],
     slideSpeed : 300,
     paginationSpeed : 400,
     singleItem:true

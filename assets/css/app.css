@@ -7179,11 +7179,11 @@ body header #owl-carousel .owl-item .item .content a:hover {
   color: #08c;
 }
 body header #owl-carousel .owl-item .item .content a:hover:after {
-  background-image: url(http://127.0.0.1:5500/assets/img/link%20arrow%20right%20blue.svg);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/adff194a4db80d313e2f4774323c6e8eb56f9895/assets/img/link_arrow_right_blue.svg);
 }
 body header #owl-carousel .owl-item .item .content a:after {
   content: "";
-  background-image: url(./assets/img/link%20arrow%20right.svg);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/adff194a4db80d313e2f4774323c6e8eb56f9895/assets/img/link%20arrow%20right.svg);
   background-repeat: no-repeat;
   width: 9px;
   height: 12px;
@@ -7213,7 +7213,7 @@ body header #owl-carousel .owl-item:nth-of-type(2) .content h1:before {
   width: 400px;
   height: 110px;
   margin-right: 15px;
-  background: url(/assets/img/Air%20Sketchers%20Logo%20White%20and%20Color.svg)
+  background: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/adff194a4db80d313e2f4774323c6e8eb56f9895/assets/img/Air%20Sketchers%20Logo%20White%20and%20Color.svg)
     no-repeat;
 }
 body header .arrows {
@@ -7314,7 +7314,7 @@ body section#info .info-cont .text a {
 }
 body section#info .info-cont .text a:after {
   content: "";
-  background-image: url(/assets/img/link%20arrow%20right%20blue.svg);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/adff194a4db80d313e2f4774323c6e8eb56f9895/assets/img/link_arrow_right_blue.svg);
   background-repeat: no-repeat;
   width: 9px;
   height: 18px;
@@ -7324,7 +7324,7 @@ body section#info .info-cont .text a:after {
 }
 body section#info #info-carousel:after {
   content: "";
-  background-image: url(/assets/img/ipad-clear-image.png);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/main/assets/img/ipad-clear-image.png);
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
@@ -7367,7 +7367,7 @@ body section#products .text .plan-text h1 {
   margin-bottom: 25px;
 }
 body section#products .text .plan-text h1:after {
-  background-image: url(/assets/img/ribbon.png);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/main/assets/img/ribbon.png);
   width: 117px;
   height: 118px;
   position: absolute;
@@ -7386,7 +7386,7 @@ body section#products .text .plan-text .buttons a {
   margin: 0 15px;
 }
 body section#products .text .plan-text .buttons a:after {
-  background-image: url(/assets/img/link%20arrow%20right%20grey.svg);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/adff194a4db80d313e2f4774323c6e8eb56f9895/assets/img/link_arrow_right_grey.svg);
   width: 6px;
   height: 12px;
   margin-left: 8px;
@@ -7406,7 +7406,7 @@ body section#products .plan02:after {
   position: absolute;
 }
 body section#products .text .plan-text .buttons a:nth-of-type(2):after {
-  background-image: url(/assets/img/link%20arrow%20right%20green.svg);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/adff194a4db80d313e2f4774323c6e8eb56f9895/assets/img/link%20arrow%20right%20green.svg);
 }
 body section#products hr {
   height: 3px;
@@ -7418,7 +7418,7 @@ body section#products .plan01 {
   margin-bottom: 525px;
 }
 body section#products .plan01:before {
-  background-image: url(/assets/img/product-image-1.png);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/main/assets/img/product-image-1.png);
   background-position: 75% 0;
   margin-top: 135px;
 }
@@ -7427,7 +7427,7 @@ body section#products .plan02 {
   margin-top: 90px;
 }
 body section#products .plan02:after {
-  background-image: url(/assets/img/product-image-2.png);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/main/assets/img/product-image-2.png);
   background-position: center;
   background-color: #f2f2f2;
   margin-top: -45px;
@@ -7548,14 +7548,14 @@ body section#gallery .start a {
   color: #08c;
 }
 body section#gallery .start a:after {
-  background-image: url(http://127.0.0.1:5500/assets/img/link%20arrow%20right%20blue.svg);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/adff194a4db80d313e2f4774323c6e8eb56f9895/assets/img/link_arrow_right_blue.svg);
   width: 9px;
   height: 12px;
   margin-left: 8px;
 }
 body section#quotes {
   content: "";
-  background-image: url(/assets/img/banner-image.jpg);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/main/assets/img/banner-image.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -7579,7 +7579,7 @@ body section#quotes .content p {
 }
 body section#contact {
   content: "";
-  background-image: url(/assets/img/AS%20texture%20logo%20background.svg);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/adff194a4db80d313e2f4774323c6e8eb56f9895/assets/img/AS%20texture%20logo%20background.svg);
   background-size: cover;
   background-position: 0 -130px;
   padding-top: 40px;
@@ -7681,7 +7681,7 @@ body section#contact .company {
   margin-bottom: 15px;
 }
 body section#contact .company li:nth-of-type(5):before {
-  background-image: url(/assets/img/Hong-Kong-flag-icon.png);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/main/assets/img/Hong-Kong-flag-icon.png);
   width: 20px;
   height: 19px;
   margin-right: 5px;
@@ -7729,7 +7729,7 @@ body.about-page .hero .content a {
 }
 body.about-page .hero .content a:after {
   content: "";
-  background-image: url(/assets/img/link%20arrow%20right.svg);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/adff194a4db80d313e2f4774323c6e8eb56f9895/assets/img/link%20arrow%20right.svg);
   background-repeat: no-repeat;
   vertical-align: middle;
 }
@@ -7737,17 +7737,17 @@ body.about-page .hero .content a:hover {
   color: #08c;
 }
 body.about-page .hero .content a:hover:after {
-  background-image: url(http://127.0.0.1:5500/assets/img/link%20arrow%20right%20blue.svg);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/adff194a4db80d313e2f4774323c6e8eb56f9895/assets/img/link_arrow_right_blue.svg);
 }
 body.about-page .main-content {
   content: "";
-  background-image: url(/assets/img/bovy.jpg);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/main/assets/img/bovy.jpg);
   background-size: cover;
   min-height: 700px;
 }
 body.about-page .main-content a:after,
 body.products-page .main-content .content .price-box a:after {
-  background-image: url(http://127.0.0.1:5500/assets/img/link%20arrow%20right%20blue.svg);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/adff194a4db80d313e2f4774323c6e8eb56f9895/assets/img/link_arrow_right_blue.svg);
   background-repeat: no-repeat;
   content: "";
   vertical-align: middle;
@@ -8495,7 +8495,7 @@ body.new-order-page.redirect .main-content .paybox img {
     right: 0;
   }
   body.about-page .main-content {
-    background-image: url(/assets/img/bovy2.jpg);
+    background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/main/assets/img/bovy2.jpg);
     background-position: 90% 0;
   }
   body.new-order-page .navbar .nav-contain .navbar-header .navbar-brand {
@@ -9340,7 +9340,7 @@ body.new-order-page.redirect .main-content .paybox img {
   body section#quotes {
     background-size: cover;
     min-height: 212px;
-    background-image: url(/assets/img/banner-mobile-image.jpg);
+    background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/main/assets/img/banner-mobile-image.jpg);
   }
   body section#quotes .content h2 {
     font-size: 18px;
@@ -9504,7 +9504,7 @@ body.new-order-page.redirect .main-content .paybox img {
     background-repeat: no-repeat;
     background-position: 0 100%;
     color: #6b6b6b;
-    background-image: url(/assets/img/bovy-mobile.jpg);
+    background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/main/assets/img/bovy-mobile.jpg);
     background-size: initial;
   }
   body.about-page .main-content .title {
@@ -11097,7 +11097,7 @@ body.home-page .modal .modal-dialog p {
   margin-bottom: 25px;
 }
 body.home-page #professionals {
-  background-image: url(/assets/img/agencies-image.jpg);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/main/assets/img/agencies-image.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 20% 0;
@@ -11129,7 +11129,7 @@ body.home-page #professionals a {
 }
 body.home-page #professionals a:after {
   content: "";
-  background-image: url(http://127.0.0.1:5500/assets/img/link%20arrow%20right%20blue.svg);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/adff194a4db80d313e2f4774323c6e8eb56f9895/assets/img/link_arrow_right_blue.svg);
   background-repeat: no-repeat;
   width: 9px;
   height: 12px;
@@ -11875,7 +11875,7 @@ body.new-order-page .step0_divide a:nth-of-type(2) {
 }
 body.new-order-page .step0_divide a:nth-of-type(2):after {
   content: "";
-  background-image: url(http://127.0.0.1:5500/assets/img/link%20arrow%20right%20blue.svg);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/adff194a4db80d313e2f4774323c6e8eb56f9895/assets/img/link_arrow_right_blue.svg);
   background-repeat: no-repeat;
   width: 9px;
   height: 13px;
@@ -15441,7 +15441,7 @@ body.new-order-page .order-token {
 }
 .affiliate-program-page .affiliate-header a:after {
   content: "";
-  background-image: url(/assets/img/link%20arrow%20right.svg);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/adff194a4db80d313e2f4774323c6e8eb56f9895/assets/img/link%20arrow%20right.svg);
   background-repeat: no-repeat;
   width: 9px;
   height: 12px;
@@ -15961,7 +15961,7 @@ body.new-order-page .order-token {
 }
 .recruitment-page .recruit-header .header-content a:after {
   content: "";
-  background-image: url(/assets/img/link%20arrow%20right.svg);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/adff194a4db80d313e2f4774323c6e8eb56f9895/assets/img/link%20arrow%20right.svg);
   background-repeat: no-repeat;
   width: 9px;
   height: 12px;
@@ -16063,7 +16063,7 @@ body.new-order-page .order-token {
 }
 .recruitment-page .section-start a:after {
   content: "";
-  background-image: url(http://127.0.0.1:5500/assets/img/link%20arrow%20right%20blue.svg);
+  background-image: url(https://raw.githubusercontent.com/AleksaNikolajevic/airsketchers/adff194a4db80d313e2f4774323c6e8eb56f9895/assets/img/link_arrow_right_blue.svg);
   background-repeat: no-repeat;
   width: 20px;
   height: 20px;
